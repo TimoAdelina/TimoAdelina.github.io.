@@ -60,7 +60,7 @@ body {
   visibility: hidden;
 }
 
-.text-box .fake-btn {
+.teks-box .fake-btn {
   background-color: rgb(21, 161, 237);
   border-radius: 3px;
   bottom: -50px;
@@ -68,6 +68,9 @@ body {
   padding: .5rem 1rem;
   position: absolute;
   right: 5px;
+   margin: 0;
+  text-align: left;
+  visibility: hidden;
 }
 
 .five p {
